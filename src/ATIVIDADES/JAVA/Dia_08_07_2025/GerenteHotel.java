@@ -1,14 +1,13 @@
-package ATIVIDADES.JAVA.Dia_09_07_2025;
+package ATIVIDADES.JAVA.Dia_08_07_2025;
 
 import java.util.Scanner;
 
 public class GerenteHotel {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
         int dia[] = new int[7];
         int total = 0;
 
-
+        Scanner input = new Scanner(System.in);
 
         for (int i = 1; i < 3; i++) {
             int totalSemana = 0;

@@ -1,4 +1,4 @@
-package CONTEUDO.JAVA.Dia_09_07_2025;
+package CONTEUDO.JAVA.Dia_08_07_2025;
 
 public class exemploVetor {
     public static void main(String[] args) {
