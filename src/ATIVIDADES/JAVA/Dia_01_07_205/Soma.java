@@ -1,4 +1,4 @@
-package ATIVIDADES.JAVA.Dia_1_01_07_205;
+package ATIVIDADES.JAVA.Dia_01_07_205;
 
 public class Soma {
     public static void main(String[] args) {

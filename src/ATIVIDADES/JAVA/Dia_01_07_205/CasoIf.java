@@ -1,6 +1,4 @@
-package ATIVIDADES.JAVA.Dia_1_01_07_205;
-
-import jdk.jfr.StackTrace;
+package ATIVIDADES.JAVA.Dia_01_07_205;
 
 public class CasoIf {
     public static void main(String[] args) {
