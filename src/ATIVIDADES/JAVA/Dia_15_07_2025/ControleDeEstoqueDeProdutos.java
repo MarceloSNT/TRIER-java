@@ -13,12 +13,12 @@ public class ControleDeEstoqueDeProdutos {
             System.out.println("=================================");
             System.out.println("Escolha uma opção:\n1-Entrada\n2-Saída\n3-Sair");
             opcoes = input.nextInt();
-                for (int i = 0; i < quantidade.length; i++) {
-            switch (opcoes) {
+            for (int i = 0; i < quantidade.length; i++) {
+                switch (opcoes) {
                     case 1:
-                        System.out.println("Quantidade de Entrada produto "+i+": ");
+                        System.out.println("Quantidade de Entrada produto " + i + ": ");
                         quantidadeTotal = input.nextInt();
-                         quantidade[i] += quantidadeTotal;
+                        quantidade[i] += quantidadeTotal;
                         break;
                     case 2:
                         System.out.println("Quantidade de Saída: ");
@@ -31,7 +31,7 @@ public class ControleDeEstoqueDeProdutos {
         }
         System.out.println("==========RELATÓRIO FINAL==========");
         for (int i = 0; i < quantidade.length; i++) {
-            System.out.println("Quantidade total do produto "+i+": "+quantidade[i]);
+            System.out.println("Quantidade total do produto " + i + ": " + quantidade[i]);
         }
         System.out.println("================================");
     }

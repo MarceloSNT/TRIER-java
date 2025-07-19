@@ -24,7 +24,7 @@ public class RegistroDeTemperaturasSemanais {
             }
         }
         mediaTemperaturas = totalTemperaturas / 7;
-        System.out.println("==========\nMédia de temperatura: " + mediaTemperaturas + "\nMenor temperatura: " + menorTemperatura + " no dia " + menorTemperaturaDia + "\nMaior temperatura: " + maiorTemperatura + " no dia " + maiorTemperaturaDia+"\nClassifique:\n1-[frio]/2-[Normal]/3-[Calor]");
+        System.out.println("==========\nMédia de temperatura: " + mediaTemperaturas + "\nMenor temperatura: " + menorTemperatura + " no dia " + menorTemperaturaDia + "\nMaior temperatura: " + maiorTemperatura + " no dia " + maiorTemperaturaDia + "\nClassifique:\n1-[frio]/2-[Normal]/3-[Calor]");
         classificar = input.nextInt();
         switch (classificar) {
             case 1:
