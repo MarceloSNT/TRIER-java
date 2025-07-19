@@ -2,7 +2,7 @@ package ATIVIDADES.JAVA.Dia_15_07_2025;
 
 import java.util.Scanner;
 
-public class PainelDeVotacao {
+public class Atividade03_PainelDeVotacao {
     public static void main(String[] args) {
         int opcoes[] = new int[3];
         int opcoesSwitch = 0;

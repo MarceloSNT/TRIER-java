@@ -2,10 +2,10 @@ package ATIVIDADES.JAVA.Dia_15_07_2025;
 
 import java.util.Scanner;
 
-public class AnáliseDeNotasFinais {
+public class Atividade07_AnáliseDeNotasFinais {
     public static void main(String[] args) {
         double notas[] = new double[10];
-        int totalTurma = 0, opc, aprovados = 0;
+        int totalTurma = 0, opc, acimaMedia = 0;
         double mediaTurma;
         Scanner input = new Scanner(System.in);
 
@@ -36,9 +36,9 @@ public class AnáliseDeNotasFinais {
                     break;
             }
             if (notas[i] > mediaTurma) {
-                aprovados++;
+                acimaMedia++;
             }
         }
-        System.out.println("\n=====Alunos acima da média " + aprovados);
+        System.out.println("\n=====Alunos acima da média " + acimaMedia);
     }
 }

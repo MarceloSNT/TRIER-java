@@ -2,7 +2,7 @@ package ATIVIDADES.JAVA.Dia_15_07_2025;
 
 import java.util.Scanner;
 
-public class AvaliaçãoDeDesempenhoDeFuncionários {
+public class Atividade04_AvaliaçãoDeDesempenhoDeFuncionários {
     public static void main(String[] args) {
         int notas[] = new int[6];
         int desempenho;

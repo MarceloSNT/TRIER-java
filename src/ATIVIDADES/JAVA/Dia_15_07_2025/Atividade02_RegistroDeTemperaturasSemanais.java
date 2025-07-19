@@ -1,9 +1,8 @@
 package ATIVIDADES.JAVA.Dia_15_07_2025;
 
-import java.beans.IndexedPropertyDescriptor;
 import java.util.Scanner;
 
-public class RegistroDeTemperaturasSemanais {
+public class Atividade02_RegistroDeTemperaturasSemanais {
     public static void main(String[] args) {
         double temperaturas[] = new double[7];
         double totalTemperaturas = 0, maiorTemperatura = 0, mediaTemperaturas = 0;

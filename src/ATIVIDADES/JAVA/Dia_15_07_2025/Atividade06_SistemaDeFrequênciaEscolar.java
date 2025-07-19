@@ -2,7 +2,7 @@ package ATIVIDADES.JAVA.Dia_15_07_2025;
 
 import java.util.Scanner;
 
-public class SistemaDeFrequênciaEscolar {
+public class Atividade06_SistemaDeFrequênciaEscolar {
     public static void main(String[] args) {
         int alunos[][] = new int[8][5];
         int faltas[] = new int[8];

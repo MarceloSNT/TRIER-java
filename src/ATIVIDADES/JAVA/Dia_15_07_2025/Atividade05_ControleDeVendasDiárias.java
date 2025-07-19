@@ -2,7 +2,7 @@ package ATIVIDADES.JAVA.Dia_15_07_2025;
 
 import java.util.Scanner;
 
-public class ControleDeVendasDiárias {
+public class Atividade05_ControleDeVendasDiárias {
     public static void main(String[] args) {
         int vendasDiarias[] = new int[10];
         int totalVendas = 0, diaMaiorVendas = 0, opcoesSwitch = 0;

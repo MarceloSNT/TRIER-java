@@ -2,7 +2,7 @@ package ATIVIDADES.JAVA.Dia_15_07_2025;
 
 import java.util.Scanner;
 
-public class ControleDeEstoqueDeProdutos {
+public class Atividade01_ControleDeEstoqueDeProdutos {
     public static void main(String[] args) {
         int quantidade[] = new int[5];
         int quantidadeTotal = 0;
