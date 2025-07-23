@@ -1,4 +1,4 @@
-package ATIVIDADES.JAVA.Dia_09_07_2025;
+package ATIVIDADES.Dia_09_07_2025;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package ATIVIDADES.JAVA.Dia_01_07_205;
+package ATIVIDADES.Dia_01_07_205;
 
 public class MenorOuMenorIdade {
     public static void main(String[] args) {

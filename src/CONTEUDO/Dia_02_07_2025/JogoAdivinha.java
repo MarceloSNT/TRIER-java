@@ -1,4 +1,4 @@
-package CONTEUDO.JAVA.Dia_02_07_2025;
+package CONTEUDO.Dia_02_07_2025;
 
 import java.util.Random;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package ATIVIDADES.JAVA.Dia_22_07_2025;
+package ATIVIDADES.Dia_22_07_2025;
 
 import java.util.ArrayList;
 import java.util.Scanner;
