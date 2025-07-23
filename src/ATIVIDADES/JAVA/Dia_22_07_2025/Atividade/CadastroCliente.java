@@ -33,7 +33,6 @@ public class CadastroCliente {
                     texto = input.nextLine();
                     texto = input.nextLine();
                     nome.add(texto);
-
                     System.out.println("Informe sua Idade");
                     idade.add(input.nextInt());
                     System.out.println("Informe seu time do coração");
